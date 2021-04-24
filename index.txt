@@ -1,2 +1,4 @@
 Witaj świecie
 jest git
+
+dodaje linie
