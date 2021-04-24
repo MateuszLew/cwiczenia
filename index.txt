@@ -1,2 +1,2 @@
-Hello World
+Witaj świecie
 jest git
